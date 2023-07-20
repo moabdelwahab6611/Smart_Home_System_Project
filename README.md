@@ -1,4 +1,4 @@
-# SmartHome
+# Smart Home System
 ## Smart Home system master MCU
 
 ### Description :
@@ -30,7 +30,7 @@ Also use the Smart Home Slave MCU Project with this project as it contains the D
 
 10 - Internal USART (Universal Synchronous Asynchronous Receiver Tranceiver) in asynchronous master mode
 
-### Link to my Smart Home System Must Be Included : https://github.com/moabdelwahab6611/SmartHome_SlaveMCU_Project/tree/main
+### Link to my Smart Home System Slave MCU Must Be Included For Temperature Indication : https://github.com/moabdelwahab6611/SmartHome_SlaveMCU_Project/tree/main
 
 ### Codded By Mohamed Ahmed Abdel Wahab // Embedded Software Engineer
 
