@@ -2,7 +2,7 @@
 ## Smart Home system master MCU
 
 ### Description :
-Master micro-controller for my Smart Home system project used to control temperature sensor, real time clock sensor, external eeprom, i2c master mode, and usart in asynchronous master mode.
+Master micro-controller for my smart home system project c programming language used to control temperature sensor, real time clock sensor, external eeprom, i2c master mode, and usart in asynchronous master mode.
 
 ### Requirements :
 To build, compile and run this project successfully you need to use MPLAB X IDE with XC8 compiler, PIC18F46K20 8-Bit Micro-conroller, pickit3, Real Time Clock DS1307 time and date sensor, Temperature Sensor TC74, and EEPROM 24C02C external eeprom.
